@@ -716,7 +716,7 @@ label {
 }
 
 .text-secondary {
-  color: #e9f3f1;
+  color: #fcfcf9;
 }
 
 .has-top-divider {
@@ -1214,8 +1214,8 @@ label {
   left: 0;
   width: 100%;
   height: 500px;
-  background: #8981a9;
-  background: linear-gradient(1deg, #e9f3f1 0%, #280e61 100%);
+  background: #bab4c4;
+  background: linear-gradient(1deg, #fcfcf9 0%, #776c8e 100%);
 }
 
 .site-header-inner {
@@ -1636,7 +1636,7 @@ main {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0px;
-  color: #92A2B1;
+  color: #5B6F82;
   border-top: 1px solid #E3E7EB;
 }
 .site-footer a {
