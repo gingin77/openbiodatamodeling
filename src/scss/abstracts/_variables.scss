@@ -8,7 +8,8 @@ $color: (
 		2: #5B6F82,
 		3: #92A2B1,
 		1i: #FFF,
-		2i: rgba( #FFF, .8 )
+		2i: rgba( #FFF, .8 ),
+		4: #440055,
 	),
 	bg: (
 		1: #FFFFFF,
@@ -36,7 +37,7 @@ $color: (
 // --------------------------------------------
 $font__family: (
 	base: '"Lato", sans-serif', // font-family(base)
-	heading: '"Comfortaa", sans-serif', // font-family(heading)
+	heading: '"Josefin Sans", sans-serif', // font-family(heading)
 	code: 'Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace', // font-family(code)
 	pre: '"Courier 10 Pitch", Courier, monospace' // font-family(pre)
 );

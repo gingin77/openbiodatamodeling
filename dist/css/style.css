@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   clear: both;
   color: #202B36;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-weight: 700;
 }
 
@@ -499,6 +499,11 @@ h6,
 .text-light h1, .text-light h2, .text-light h3, .text-light h4, .text-light h5, .text-light h6,
 .text-light .h1, .text-light .h2, .text-light .h3, .text-light .h4, .text-light .h5, .text-light .h6 {
   color: #FFF !important;
+}
+
+.text-dark h1, .text-dark h2, .text-dark h3, .text-dark h4, .text-dark h5, .text-dark h6,
+.text-dark .h1, .text-dark .h2, .text-dark .h3, .text-dark .h4, .text-dark .h5, .text-dark .h6 {
+  color: #440055 !important;
 }
 
 .text-sm {
@@ -1214,8 +1219,6 @@ label {
   left: 0;
   width: 100%;
   height: 500px;
-  background: #bab4c4;
-  background: linear-gradient(1deg, #fcfcf9 0%, #776c8e 100%);
 }
 
 .site-header-inner {
@@ -1294,8 +1297,6 @@ label {
   }
   .hero-paragraph {
     margin-bottom: 40px;
-    padding-left: 72px;
-    padding-right: 72px;
   }
   .hero-media {
     margin-top: 64px;
